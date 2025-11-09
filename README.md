@@ -4,8 +4,7 @@
 ---
 
 ### 👩‍💻 About Me
-I’m **Bhagyashree Anil Patil**, an **MS in Computer Science student at New York University (NYU)** passionate about developing intelligent, data-driven systems that connect cloud, machine learning, and scalable backend technologies.  
-My interests lie in **AI-powered engineering, data pipelines, and distributed computing** — building solutions that are clean, impactful, and production-ready.
+I’m **Bhagyashree Anil Patil**, an **MS in Computer Science student at New York University (NYU)** passionate about developing intelligent systems that connect cloud, machine learning, and backend technologies. 
 
 ---
 
@@ -20,10 +19,10 @@ My interests lie in **AI-powered engineering, data pipelines, and distributed co
 ### 📫 Feel Free to Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/bhagyashree-patil/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
+  <a href="https://leetcode.com/u/bhagyashree-patil/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
