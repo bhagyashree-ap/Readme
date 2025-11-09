@@ -44,11 +44,13 @@ I’m **Bhagyashree Anil Patil**, an **MS in Computer Science student at New Yor
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,react,flask,sql,aws,git,tensorflow,numpy,tableau" />
+  <img src="https://skillicons.dev/icons?i=java,python,react,flask,mysql,aws,git,tensorflow,jenkins"/><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js"/>
+  
 </p>
 
 ---
 
 <p align="center">
-  ✨ “Code. Learn. Build. Repeat.” ✨
+  Code. Learn. Build. Repeat.
 </p>
