@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer • Machine Learning • Data Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6aa9ff&size=22&center=true&vCenter=true&width=600&lines=MS+CS+Student+@+NYU;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=57068C&size=22&center=true&vCenter=true&width=600&lines=MS+CS+Student+@+NYU;Building+Scalable+Systems" />
 </p>
 
 ---
