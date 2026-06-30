@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Bhagyashree</h1>
-<h3 align="center">Software Engineer • Machine Learning • Data Engineer</h3>
+<h3 align="center">Software Engineer • Machine Learning Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=57068C&size=22&center=true&vCenter=true&width=600&lines=MS+CS+Student+@+NYU;Building+Scalable+Systems" />
@@ -10,7 +10,7 @@
 ## What I Do
 Engineer high performance, scalable systems across:
 
-- **Machine Learning** ~ sequence models, LLMs, SSMs, training pipelines  
+- **Machine Learning** ~ LLMs, RAG, GPT, training pipelines, recommendation systems  
 - **Backend Engineering** ~ APIs, distributed systems, microservices  
 - **Cloud Infrastructure** ~ AWS, CI/CD, data engineering workflows  
 
@@ -22,17 +22,25 @@ Focused on **efficiency, reliability and structurally clean system design.**
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,mysql,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,mysql,postgres,mongodb" />
 </p>
 
-### **Frameworks**
+### **Frameworks & Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,flask,fastapi,sklearn" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,fastapi,flask,django,pytorch,tensorflow,sklearn,graphql" />
+</p>
+
+<p>
+  <strong>Also:</strong> Pandas • NumPy • Matplotlib • OpenCV • Transformers • FAISS • PySpark • Hugging Face
 </p>
 
 ### **Cloud & Systems**
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kafka,jenkins,git,linux,grafana,kubernetes,redis,prometheus" />
+</p>
+
+<p>
+  <strong>Also:</strong> Neo4j • OracleDB • Couchbase
 </p>
 
 ---
