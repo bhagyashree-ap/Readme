@@ -2,23 +2,12 @@
 <h3 align="center">Software Engineer • Machine Learning Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=57068C&size=22&center=true&vCenter=true&width=600&lines=MS+CS+Student+@+NYU;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=57068C&size=22&center=true&vCenter=true&width=600&lines=MS+CS+Student+@+NYU;Backend+Engineering;Machine+Learning;Cloud+%26+Distributed+Systems" />
 </p>
 
 ---
 
-## What I Do
-Engineer high performance, scalable systems across:
-
-- **Machine Learning** ~ LLMs, RAG, GPT, training pipelines, recommendation systems  
-- **Backend Engineering** ~ APIs, distributed systems, microservices  
-- **Cloud Infrastructure** ~ AWS, CI/CD, data engineering workflows  
-
-Focused on **efficiency, reliability and structurally clean system design.**
-
----
-
-## Technical Expertise
+## Tech Stack
 
 ### **Languages**
 <p>
